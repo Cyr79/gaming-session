@@ -4,18 +4,18 @@ One-click gaming boost for Windows 10 & 11. Pick a game, press Start. End the se
 
 **Website:** https://gamingsession.cyrille-pillon.com
 
-![Gaming Session v0.9.1](app.png)
+![Gaming Session v1.0](app.png)
 
 ## Download
 
-Latest: **[v0.9.1](https://github.com/Cyr79/gaming-session/releases/latest)** — single `.exe` (126 KB), no installer.
+Latest: **[v1.0](https://github.com/Cyr79/gaming-session/releases/latest)** — single `.exe` (131 KB), no installer.
 
-SHA-256: `6D0321283CE1E998877A144B419760A1AE786529308A1FEBDF639B32D0E25B39`
+SHA-256: `30D312AA9BF817ACEA62200B5E107DC0769AF06EB962206304F945723A6C2613`
 
 Check it in PowerShell:
 
 ```powershell
-Get-FileHash .\GamingSession-0.9.1.exe -Algorithm SHA256
+Get-FileHash .\GamingSession-1.0.exe -Algorithm SHA256
 ```
 
 The file is not code-signed yet, so Windows SmartScreen may warn on first launch ("More info" → "Run anyway").
