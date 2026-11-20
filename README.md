@@ -43,3 +43,12 @@ Found a bug? Open an [issue](https://github.com/Cyr79/gaming-session/issues). Do
 ## About
 
 Made by [Cyrille Pillon](https://cyrille-pillon.com). The source code is not published. See [LICENSE](LICENSE).
+
+## Proof of authorship
+
+The source code of Gaming Session is private. On 2026-11-20 I timestamped a fingerprint of it on the Bitcoin blockchain with [OpenTimestamps](https://opentimestamps.org), so anyone can check that this exact code existed on that date without seeing it.
+
+- `proofs/gaming-session-src-2026-11-20.sha256`: SHA-256 of the private source manifest
+- `proofs/gaming-session-src-2026-11-20.ots`: the timestamp proof (verify it on opentimestamps.org)
+
+Commits are signed with my SSH key.
